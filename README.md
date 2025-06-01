@@ -1,6 +1,6 @@
 # Job-Wise
 
-*An AI-powered recruiting platform that makes hiring human again*
+*The Best recriting site out in the market*
 
 ---
 
