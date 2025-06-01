@@ -1,6 +1,8 @@
 # Job-Wise
 
 *The Best recruting site out in the market*
+![WhatsApp Image 2025-06-01 at 17 49 46_e3b75276](https://github.com/user-attachments/assets/44589ea4-4eec-4e4a-934d-bc52efaeb4c4)
+![WhatsApp Image 2025-06-01 at 17 50 24_ee6fd46e](https://github.com/user-attachments/assets/69e1d38f-16a9-41e9-b21b-ab7b3ac03ed4)
 
 ---
 
