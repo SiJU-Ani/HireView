@@ -1,3 +1,5 @@
+
+## Deployment link: https://job-wise-mpzy.vercel.app/
 # Job-Wise
 
 *The Best recruting site out in the market*
