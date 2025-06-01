@@ -1,6 +1,6 @@
 # Job-Wise
 
-*The Best recriting site out in the market*
+*The Best recruting site out in the market*
 
 ---
 
